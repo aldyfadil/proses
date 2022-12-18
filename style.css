@@ -1,0 +1,17 @@
+.jumbotron, h1{
+    background-color: #456990;
+    color: white;
+    font-family: 'Audiowide';
+}
+.lol{
+    height: 100px;
+}
+.button{
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    font-family: 'sofia';
+}
